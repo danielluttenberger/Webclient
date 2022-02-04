@@ -4,7 +4,12 @@
 #
 #-------------------------------------------------
 
+<<<<<<< HEAD
+QT += core gui network
+QT += core network
+=======
 QT       += core gui network
+>>>>>>> 47f9ffed94dbc66cb2145e1b0e82a555ee5db27f
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
